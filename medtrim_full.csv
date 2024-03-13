@@ -1,0 +1,10 @@
+generic_name,brand_name,product_type,route,dosage_form,text,embedding
+Hypromellose,GenTeal Tears Severe,HUMAN OTC DRUG,['OPHTHALMIC'],GEL,the generic_name is Hypromellose the brand_name is GenTeal Tears Severe the product_type is HUMAN OTC DRUG the route is ['OPHTHALMIC'] the dosage_form is GEL,
+Alcohol,Hand Sanitizer Apple Blossom,HUMAN OTC DRUG,['TOPICAL'],SPRAY
+Diphenhydramine HCl,Allergies MY CHILD NEEDS HELP WITH,HUMAN OTC DRUG,['ORAL'],"TABLET, CHEWABLE"
+Nicotine Polacrilex,Mini Nicotine,HUMAN OTC DRUG,['ORAL'],LOZENGE
+ssanghwa extract,SSANGGI TANG,HUMAN OTC DRUG,['ORAL'],LIQUID
+"Hypophysis Suis, Hypothalamus Suis, Aconitum Napellus, Aloe, Alumina, Antimonium Crudum, Apis Mellifica, Argentum Nitricum, Arnica Montana, Arsenicum Album, Belladonna, Bellis Perennis, Bryonia (Alba), Calcarea Fluorica, Calendula Officinalis, Causticum, Chamomilla, Chelidonium Majus, Cistus Canadensis, Clematis Erecta, Ferrum Phosphoricum, Gambogia, Graphites, Histaminum Hydrochloricum, Hydrastis canadensis, Hydrofluoricum Acidum, Hypericum Perforatum, Ignatia amara, Impatiens Glandulifera, Flos,",Recalibr8,HUMAN OTC DRUG,['ORAL'],LIQUID
+zinc oxide and titanium dioxide,Mineral Tinted Face Sunscreen SPF 30 - Light/ Medium,HUMAN OTC DRUG,['TOPICAL'],CREAM
+Diclofenac,Diclofenac sodium,HUMAN OTC DRUG,['TOPICAL'],GEL
+Chloroxylenol,smart way orange scent dish,HUMAN OTC DRUG,['TOPICAL'],SOAP

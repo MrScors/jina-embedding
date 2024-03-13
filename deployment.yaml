@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: embedding-py
+  labels:
+    app: nginx
+spec:
+  replicas: 10
+  selector:
+    matchLabels:
+      app: embedding-py
+  template:
+    metadata:
+      labels:
+        app: embedding-py
+    spec:
+      containers:
+        - name: embedding-py
+          image: gcr.io/eds-lab-nqio/embedding-py-3
+          resources: {"limits":{"cpu":"2000m","ephemeral-storage":"4Gi","memory":"12Gi"},"requests":{"cpu":"2000m","ephemeral-storage":"4Gi","memory":"12Gi"}}
+          ports:
+            - containerPort: 8080
